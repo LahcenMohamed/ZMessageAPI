@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34310.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZMessageAPI", "ZMessageAPI\ZMessageAPI.csproj", "{24031500-EE91-4F5B-A9AF-F80B87CD9ADE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{40D85508-1C99-4470-B531-EA275FDD806E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{D460185A-B1D9-46AF-89E6-673CA3764598}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24031500-EE91-4F5B-A9AF-F80B87CD9ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24031500-EE91-4F5B-A9AF-F80B87CD9ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24031500-EE91-4F5B-A9AF-F80B87CD9ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24031500-EE91-4F5B-A9AF-F80B87CD9ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D85508-1C99-4470-B531-EA275FDD806E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D85508-1C99-4470-B531-EA275FDD806E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D85508-1C99-4470-B531-EA275FDD806E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D85508-1C99-4470-B531-EA275FDD806E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D460185A-B1D9-46AF-89E6-673CA3764598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D460185A-B1D9-46AF-89E6-673CA3764598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D460185A-B1D9-46AF-89E6-673CA3764598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D460185A-B1D9-46AF-89E6-673CA3764598}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF72BBD7-AEE6-4172-BC4A-61594CDED1AF}
+	EndGlobalSection
+EndGlobal

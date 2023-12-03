@@ -1,0 +1,6 @@
+@ZMessageAPI_HostAddress = http://localhost:5028
+
+GET {{ZMessageAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
